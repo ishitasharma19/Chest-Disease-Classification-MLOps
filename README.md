@@ -1,7 +1,7 @@
 # 🏥 Chest Disease Classification using MLOps
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/entbappy/Branching-tutorial/master/xray.png" width="100%" alt="Chest X-Ray Banner">
+ <img src="https://raw.githubusercontent.com/entbappy/Branching-tutorial/master/xray.png" width="100%" alt="Chest X-Ray Banner">
 </div>
 
 <div align="center">
