@@ -1,19 +1,23 @@
-# Chest Disease Classification using MLOps
+# 🏥 Chest Disease Classification using MLOps
 
-### Author: Ishita Rajoria
-**GitHub ID:** ishitasharma19
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ishitasharma19/Chest-Disease-Classification-MLOps/main/.github/images/medical_banner.jpg" width="80%" alt="Banner">
+</div>
 
-## 📝 Project Overview
-This project is a professional Deep Learning application designed to classify chest diseases from X-ray images. It uses a **CNN (Convolutional Neural Network)** architecture and follows MLOps best practices for modularity and scalability.
+<div align="center">
+  <h3>Professional Deep Learning Project by Ishita Rajoria</h3>
+</div>
 
-## 🚀 Key Features
-- **Modular Coding:** Clean and organized folder structure for production-ready code.
-- **Automated Setup:** Uses `setup.py` for easy package installation.
-- **MLOps Ready:** Structured for model tracking and easy deployment.
-- **Branding:** Fully customized metadata including `CITATION.cff` for professional recognition.
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/MLOps-000000?style=for-the-badge&logo=git&logoColor=white" alt="MLOps">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
+</div>
 
-## 🛠️ Tech Stack
-- Python
-- TensorFlow/Keras (CNN)
-- MLOps Tools
-- GitHub Actions (Workflows)
+---
+
+**Chest Disease Classification** is a framework built with Python and CNN to help medical professionals identify diseases from chest X-ray images. It uses professional MLOps practices to ensure the model is reliable and production-ready.
+
+```bash
+pip install -r requirements.txt
