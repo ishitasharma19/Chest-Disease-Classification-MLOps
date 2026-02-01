@@ -23,27 +23,44 @@
 pip install -r requirements.txt
 ---
 
+---
+
 ## 📚 Documentation
 
-- **Project Architecture**: Detailed modular structure for deep learning pipelines.
-- **Model Reference**: CNN-based classification for medical imaging.
-- **API Reference**: How to integrate the classification engine into web apps.
+* **Project Architecture:** Detailed modular structure for deep learning pipelines.
+* **Model Reference:** CNN-based classification for medical imaging.
+* **API Reference:** How to integrate the classification engine into web apps.
 
 ## ❓ Why use this Project?
 
-This project helps developers build production-ready Medical AI applications through a standard interface for image processing and model inference:
+This project helps developers build **production-ready Medical AI applications** through a standard interface for image processing and model inference:
 
-- **Real-time Prediction**: Easily connect the model to medical databases for instant X-ray analysis.
-- **Model Interoperability**: Swap different CNN architectures (ResNet, VGG) easily thanks to modular coding.
-- **Rapid Prototyping**: Build and test new disease classification models without rebuilding the entire pipeline.
-- **Production-ready Features**: Built-in support for monitoring and evaluation through MLOps workflows.
+* **Real-time Prediction:** Easily connect the model to medical databases for instant X-ray analysis.
+* **Model Interoperability:** Swap different CNN architectures (ResNet, VGG) easily thanks to modular coding.
+* **Rapid Prototyping:** Build and test new disease classification models without rebuilding the entire pipeline.
+* **Production-ready Features:** Built-in support for monitoring and evaluation through MLOps workflows.
 
 ## 🏗️ Project Ecosystem
 
 Paired with this project, you can use:
-- **MLflow**: For tracking experiments and model versions.
-- **DVC**: To manage large medical image datasets.
-- **Docker**: For containerized deployment in hospitals.
+* **MLflow:** For tracking experiments and model versions.
+* **DVC:** To manage large medical image datasets.
+* **Docker:** For containerized deployment in hospitals.
+
+---
+
+## 🛠️ How to Run?
+
+Follow these simple steps to set up the project locally:
+
+### 1. Clone the repository
+```bash
+git clone [https://github.com/ishitasharma19/Chest-Disease-Classification-MLOps.git](https://github.com/ishitasharma19/Chest-Disease-Classification-MLOps.git)
+Follow these steps to set up the project locally on your machine:
+
+### 1. Clone the repository
+```bash
+git clone [https://github.com/ishitasharma19/Chest-Disease-Classification-MLOps.git](https://github.com/ishitasharma19/Chest-Disease-Classification-MLOps.git)
 
 ---
 
